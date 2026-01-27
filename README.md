@@ -9,7 +9,7 @@
   
 
     
-> *While DNA codes for life, I dedicate my life to code for DNA.*
+> *While DNA codes for life, I dedicate my life to code for DNA.* 🔥🖋️
 
 [And here are all projects I made, organized into lists.](https://github.com/crakshay1?tab=stars)  
 
