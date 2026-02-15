@@ -2,8 +2,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square) 
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat-square) 
-![Bash](https://img.shields.io/badge/-Bash-333333?logo=gnu-bash&logoColor=white&style=flat-square) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ###### Master’s Student in Bioinformatics at Paris-Saclay | GENIOMHE Program.
 
   
